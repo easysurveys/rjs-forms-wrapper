@@ -1,6 +1,6 @@
 {
   "name": "rjs-forms-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper for @rjsf/chakra-ui with @rjsf/validator-ajv8 as default validator",
   "main": "index.tsx",
   "dependencies": {
