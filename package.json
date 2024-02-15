@@ -1,0 +1,19 @@
+{
+  "name": "rjs-forms-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper for @rjsf/chakra-ui with @rjsf/validator-ajv6 as default validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easysurveys/rjs-forms-wrapper.git"
+  },
+  "author": "Akshay Ranjan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/easysurveys/rjs-forms-wrapper/issues"
+  },
+  "homepage": "https://github.com/easysurveys/rjs-forms-wrapper#readme"
+}
